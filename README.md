@@ -1,8 +1,8 @@
 # BRANE-EXP
 Multiomics Data Integration with Exponential Family Embeddings
 
-#**Data**
-Download the network files from https://bit.ly/37ZO37e
+**Data**:
+**Download the network files from https://bit.ly/37ZO37e**
 
 #### Compilation
 
