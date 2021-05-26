@@ -30,3 +30,9 @@ python grn.py --emb tf_coexp.emb --node_map yeast_node_map.txt --tf_list tf_list
 A. Celikkanat and F. D. Malliaros, [Exponential Family Graph Embeddings](https://arxiv.org/pdf/1911.09007.pdf)
 
 Duong Nguyen and Fragkiskos D. Malliaros, [BiasedWalk: Biased Sampling for Representation Learning on Graphs](https://arxiv.org/pdf/1809.02482.pdf)
+
+#### Publication
+
+Multiomics Data Integration for Gene Regulatory Network Inference with Exponential Family Embeddings
+Surabhi Jagtap, Abdulkadir Çelikkanat, Aurélie Pirayre, Frederique Bidard, Laurent Duval, and Fragkiskos D. Malliaros.
+European Signal Processing Conference (EUSIPCO),2021
