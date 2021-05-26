@@ -29,4 +29,4 @@ python grn.py --emb tf_coexp.emb --node_map yeast_node_map.txt --tf_list tf_list
 #### References
 A. Celikkanat and F. D. Malliaros, [Exponential Family Graph Embeddings](https://arxiv.org/pdf/1911.09007.pdf)
 
-Duong Nguyen and Fragkiskos D. Malliaros, [BiasedWalk: Biased Sampling for Representation Learning on Graphs] (https://arxiv.org/pdf/1809.02482.pdf)
+Duong Nguyen and Fragkiskos D. Malliaros, [BiasedWalk: Biased Sampling for Representation Learning on Graphs](https://arxiv.org/pdf/1809.02482.pdf)
