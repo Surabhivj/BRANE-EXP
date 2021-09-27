@@ -1,6 +1,9 @@
 # BRANE-EXP
 Multiomics Data Integration with Exponential Family Embeddings
 
+![image](https://user-images.githubusercontent.com/47250394/134910047-198cb9de-4b11-4664-a910-235eb91c1a5c.png)
+
+
 **Data**:
 **Download the network files from https://bit.ly/37ZO37e**
 
@@ -26,13 +29,13 @@ python grn.py --emb tf_coexp.emb --node_map yeast_node_map.txt --tf_list tf_list
 ./efge --help
 ```
 
-#### References
-A. Celikkanat and F. D. Malliaros, [Exponential Family Graph Embeddings](https://arxiv.org/pdf/1911.09007.pdf)
 
-Duong Nguyen and Fragkiskos D. Malliaros, [BiasedWalk: Biased Sampling for Representation Learning on Graphs](https://arxiv.org/pdf/1809.02482.pdf)
 
 #### Publication
 
 Multiomics Data Integration for Gene Regulatory Network Inference with Exponential Family Embeddings
 Surabhi Jagtap, Abdulkadir Çelikkanat, Aurélie Pirayre, Frederique Bidard, Laurent Duval, and Fragkiskos D. Malliaros.
 European Signal Processing Conference (EUSIPCO),2021
+
+
+
