@@ -34,6 +34,13 @@ python grn.py --emb tf_coexp.emb --node_map yeast_node_map.txt --tf_list tf_list
 #### Publication
 
 >| Multiomics Data Integration for Gene Regulatory Network Inference with Exponential Family Embeddings Surabhi Jagtap, Abdulkadir Çelikkanat, Aurélie Pirayre, Frederique Bidard, Laurent Duval, and Fragkiskos D. Malliaros. European Signal Processing Conference (EUSIPCO),2021 | 
+>
+>@inproceedings{jagtap2021multiomics,
+  title={Multiomics Data Integration for Gene Regulatory Network Inference with Exponential Family Embeddings},
+  author={Jagtap, Surabhi and Celikkanat, Abdulkadir and Pirayre, Aur{\'e}lie and Bidard, Frederique and Duval, Laurent and Malliaros, Fragkiskos},
+  booktitle={29th European Signal Processing Conference (EUSIPCO)},
+  year={2021}
+}
 >| --- |
 
 
