@@ -1,7 +1,7 @@
 # BRANE-EXP
 Multiomics Data Integration with Exponential Family Embeddings
 
-![image](https://user-images.githubusercontent.com/47250394/134910047-198cb9de-4b11-4664-a910-235eb91c1a5c.png)
+![braneexp](https://user-images.githubusercontent.com/47250394/211617786-f465033b-e87d-4b71-ac7f-8b6fdc744f83.png)
 
 
 **Data**:
